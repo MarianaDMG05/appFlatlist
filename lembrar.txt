@@ -1,0 +1,8 @@
+git remote add origin https://github.com/MarianaDMG05/appFlatlist.git
+Configuração do Git local:
+
+git config --global user.name MarianaDMG05
+git config --global user.email mariana.gomes87@etec.sp.gov.br
+
+npm i -> instalar dependencias
+npm run android
